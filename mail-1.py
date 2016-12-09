@@ -9,7 +9,7 @@ from email.mime.multipart import MIMEMultipart
 # 第三方 SMTP 服务
 mail_host="smtp.126.com"  #设置服务器
 mail_user="lzj3278@126.com"    #用户名
-mail_pass="324ldj3fat"   #口令 
+mail_pass="111111"   #口令 
 
 
 sender = 'lzj3278@126.com'
