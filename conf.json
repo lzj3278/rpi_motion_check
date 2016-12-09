@@ -1,8 +1,8 @@
 {
 	"show_video": true,
 	"use_S3": "",
-	"aws_access_key_id": "AKIAJEMZXPTV5ICY5CQQ",
-	"aws_secret_access_key": "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",
+	"aws_access_key_id": "AKIAJEM121212CY5CQQ",
+	"aws_secret_access_key": "1212121G03BqfgnwlVw+Ag",
 	"bucket": "viziner.vod",
 	"region_name" : "ap-northeast-1",
 	"min_upload_seconds": 3.0,
