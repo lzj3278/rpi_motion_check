@@ -7,9 +7,15 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 
 # 第三方 SMTP 服务
+# <<<<<<< HEAD
 mail_host = "smtp.exmail.qq.com"  # 设置服务器
 mail_user = "zhongjie.li@viziner.cn"  # 用户名
-mail_pass = "V1z1ner!"  # 口令
+mail_pass = "111111"  # 口令
+# =======
+# mail_host="smtp.126.com"  #设置服务器
+# mail_user="lzj3278@126.com"    #用户名
+# mail_pass="111111"   #口令
+# >>>>>>> 0d89bdf4bf887abedc30b39a1678be43c310da6d
 
 
 sender = 'zhongjie.li@viziner.cn'
